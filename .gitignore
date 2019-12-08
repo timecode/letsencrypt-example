@@ -1,0 +1,4 @@
+server/tmp
+server/logs
+server/htdocs/.well-known
+*-key.pem
